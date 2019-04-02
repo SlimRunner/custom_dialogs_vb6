@@ -1,0 +1,12 @@
+# Workspace files
+*.frx
+*.vbw
+
+# Compiled Static libraries
+*.lib
+*.exp
+
+# Executables
+*.exe
+*.ocx
+*.dll
