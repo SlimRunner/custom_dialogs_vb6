@@ -1,6 +1,7 @@
 # Workspace files
 *.frx
 *.vbw
+*.vbp
 
 # Compiled Static libraries
 *.lib
